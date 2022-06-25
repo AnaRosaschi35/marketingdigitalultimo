@@ -1,0 +1,9 @@
+styles.css
+.grid-container{
+    background-color: beige;
+    display: grid;
+    grid-template-columns: 150px auto 150px;
+}
+.grid-container >*{
+background-color: ;
+}
